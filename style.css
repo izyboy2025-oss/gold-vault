@@ -327,11 +327,11 @@ html,body{
 
   /* Elegant slow wave gradient */
   background: linear-gradient(120deg, 
-    #ffebc4 0%, 
-    #c0f8f0cc 25%, 
-    #f5e6cf 50%, 
-    #d6faf2 75%, 
-    #F8F6F2 100%);
+    #f1efe9 0%, 
+    #fdffffcc 25%, 
+    #ffffff 50%, 
+    #ffffff 75%, 
+    #ffffff 100%);
   background-size: 300% 300%;
   animation: gradientWave 35s ease infinite;
 }
